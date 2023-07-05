@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import Container from "@material-ui/core/Container";
-import { Dict } from "./Components/Dict";
+import MathFacts from "./Components/MathFacts";
 import {
   createTheme,
   ThemeProvider,
@@ -18,7 +18,7 @@ function App() {
     <div>
       <ThemeProvider theme={darkTheme}>
         <Container maxWidth="md" style={{ textAlign: "center" }}>
-          <Dict />
+          <MathFacts/>
         </Container>
       </ThemeProvider>
     </div>
