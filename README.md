@@ -1,4 +1,7 @@
-# Word Hunt
+#Random Math facts
+
+
+
 Word Hunt Is A Dictionary App that uses React And [FreeDictionaryApi](https://dictionaryapi.dev)
 
 ## Available Scripts
